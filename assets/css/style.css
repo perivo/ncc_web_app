@@ -1,0 +1,13 @@
+/* /assets/css/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* White background for user panel */
+    color: #333333; /* Dark text color */
+}
+
+h2 {
+    color: #007bff; /* Bootstrap primary color for sub-headings */
+}
+
+/* Add styles for buttons, forms, etc. */
